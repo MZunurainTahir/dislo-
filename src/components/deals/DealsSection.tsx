@@ -14,6 +14,8 @@ const SECTORS: Sector[] = [
   'All',
   'F-6 (Kohsar & Beverly)',
   'F-7 (Jinnah Super)',
+  'F-8 (Markaz)',
+  'F-9 Park',
   'F-10 (Markaz)',
   'F-11 (Markaz)',
   'Blue Area',
